@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">PruebaTecnica</string>
+  <string name="title_home">Home</string>
+  <string name="title_genres">Genres</string>
+  <string name="title_search">Search</string>
+  <string name="title_detail">Detail</string>
+</resources>
